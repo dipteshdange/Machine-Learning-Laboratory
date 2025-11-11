@@ -1,0 +1,65 @@
+=== EXTRACTED TEXT ===
+Government College of Engineering Karad
+Vidyanagar, Dist. Satara - 415124, MAHARASHTRA (INDIA)
+PROVISIONAL GRADE CARD
+L
+Student Name : KORE SHUBHANGI DHANRAJ Regd. No. : 23143183
+A
+Mother Name : SHIVANANDA Semester : V
+Programme : BACHELOR OF TECHNOLOGY Examination : Makeup Winter-2024
+N
+Department : INFORMATION TECHNOLOGY
+Course Earned
+Sr.No. Course Code Course Name Grade
+Credits Credits
+O
+1 IT2501 Geo Informatics 3 3 A
+2 IT2502* Computer Networks 3 3 D
+I
+3 IT2503 Design and Analysis of Algorithms 3 3 B+
+S
+4 IT2504 Theory of Computation 3 3 A
+I
+5 IT2515 Elective-I (Artificial Intelligence) 3 3 B+
+V
+6 IT2506 Geo Informatics Lab 1 1 A
+7 IT2507 OComputer Networks Lab 1 1 B+
+8 IT2508 Design and Analysis of Algorithms Lab 1 1 A
+9 IT2R509 Programming Lab-I 1 1 B+
+10 IT2510 Mini Project 1 1 A
+P
+11 IT2511 Industrial Training 1 1 A
+Remarks : PASS
+Current Semester Performance Cummulative Performance
+Credits EGP SGPA Credits EGP CGPA
+21 169 8.05 98 790 8.06
+Grade Card No. :
+Result Date:
+Sr.No. | Course Code | N
+Course Name | Course
+Credits | Earned
+Credits | Grade
+1 | IT2501 | Geo Informatics | 3 | 3 | A
+2 | IT2502* | O
+Computer Networks | 3 | 3 | D
+3 | IT2503 | Design and Analysis of Algorithms | 3 | 3 | B+
+4 | IT2504 | I
+Theory of Computation | 3 | 3 | A
+5 | IT2515 | S
+Elective-I (Artificial Intelligence) | 3 | 3 | B+
+6 | IT2506 | I
+Geo Informatics Lab | 1 | 1 | A
+7 | IT2507 | V
+Computer Networks Lab | 1 | 1 | B+
+8 | IT2508 | Design and Analysis of Algorithms Lab | 1 | 1 | A
+9 | IT2509 | O
+Programming Lab-I | 1 | 1 | B+
+10 | IT2510 | Mini Project | 1 | 1 | A
+11 | IT2511 | R
+Industrial Training | 1 | 1 | A
+P
+Current Semester Performance |  |  | Cummulative Performance |  | 
+Credits | EGP | SGPA | Credits | EGP | CGPA
+21 | 169 | 8.05 | 98 | 790 | 8.06
+
+=== END OF TEXT ===

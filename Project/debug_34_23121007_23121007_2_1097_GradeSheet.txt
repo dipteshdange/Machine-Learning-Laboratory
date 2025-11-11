@@ -1,0 +1,89 @@
+=== EXTRACTED TEXT ===
+Government College of Engineering Karad
+Vidyanagar, Dist. Satara, -415124, MAHARASHTRA ( INDIA )
+PROVISIONAL GRADE CARD
+L
+Student's Name:SHELAR ATHARV NANDKUMAR Registration No:23121007
+A
+Mother's Name :MANISHA ABC ID :917586284300
+Programme :BACHELOR OF TECHNOLOGY Semester :III
+Department :MECHANICAL ENGINEERING Examination :Winter-2024
+N
+MSE ISE ESE TOTAL
+Course Course Earned
+Course Name Grade
+Code MAX SEC MAX SEC MAX MIN SEC MAX MIN SEC Credit Credit
+O
+EE3304 MDM I DC Machines and 20 11 20 19 60 20 28 100 33 58 2 2 B+
+Transformers)
+IOE3341 OE I (ABAP Programming for - - 50 39 50 20 50 100 40 89 3 3 A
+SAP HANA)
+I
+IOE3342 OE I (ABAP programming in - - 25 20 25 10 20 50 20 40 1 1 A
+Eclipse LAB) S
+ME3301 Mathematics for Mechanical 20 12 20 16 60 20 30 100 33 58 2 2 B
+Engineering
+ME3302 Engineering Thermodynamics 20 7 I20 16 60 20 40 100 33 63 3 3 B+
+ME3303 Material Engineering 2V0 17 20 14 60 24 48 100 40 79 3 3 B+
+ME3308 Engineering Thermodynamics - - 25 21 25 10 18 50 20 39 1 1 A
+Lab
+ME3309 Material Engineering L O ab - - 25 18 25 10 19 50 20 37 1 1 B+
+ME3310 Machine Drawing Lab - - 25 14 - - - 25 10 14 1 1 C+
+ME3306 Universal Human Values - - 50 41 - - - 50 20 41 2 2 A
+ME3307 Economics for Engineers - - 50 42 - - - 50 20 42 2 2 A
+R
+ME3311 Workshop Practice-III - - - - 25 10 17 25 10 17 1 1 B
+Remarks : PASS
+P
+Current Semester Performance Cumulative Performance
+Total Total
+Total Max Total Max
+Marks Percentage Credits EGP SGPA Marks Percentage Credits EGP CGPA
+Marks Marks
+Obtained Obtained
+577 800 74.30 22 180 8.18 1657 2400 70.80 66 525 7.95
+Note: Percentage are calculated as per formula GPA= (% of marks X 0.1) + 0.75
+Grade Card No. :
+Result Date :
+Course
+Code | Course Name | MSE |  | ISE |  | ESE |  |  | TOTAL |  |  | Course
+Credit | Earned
+Credit | Grade
+ |  | MAX | SEC | MAX | SEC | MAX | MIN | SEC | MAX | N
+MIN | SEC |  |  | 
+EE3304 | MDM I DC Machines and
+Transformers) | 20 | 11 | 20 | 19 | 60 | 20 | 28 | 100 | 33 | 58 | 2 | 2 | B+
+IOE3341 | OE I (ABAP Programming for
+SAP HANA) | - | - | 50 | 39 | 50 | 20 | O
+50 | 100 | 40 | 89 | 3 | 3 | A
+IOE3342 | OE I (ABAP programming in
+Eclipse LAB) | - | - | 25 | 20 | 25 | 10 | 20 | 50 | 20 | 40 | 1 | 1 | A
+ME3301 | Mathematics for Mechanical
+Engineering | 20 | 12 | 20 | 16 | 60 | I
+20 | 30 | 100 | 33 | 58 | 2 | 2 | B
+ME3302 | Engineering Thermodynamics | 20 | 7 | 20 | 16 | S
+60 | 20 | 40 | 100 | 33 | 63 | 3 | 3 | B+
+ME3303 | Material Engineering | 20 | 17 | 20 | 14 | 60 | 24 | 48 | 100 | 40 | 79 | 3 | 3 | B+
+ME3308 | Engineering Thermodynamics
+Lab | - | - | 25 | I
+21 | 25 | 10 | 18 | 50 | 20 | 39 | 1 | 1 | A
+ME3309 | Material Engineering Lab | - | - | V
+25 | 18 | 25 | 10 | 19 | 50 | 20 | 37 | 1 | 1 | B+
+ME3310 | Machine Drawing Lab | - | - | 25 | 14 | - | - | - | 25 | 10 | 14 | 1 | 1 | C+
+ME3306 | Universal Human Values | - | - | 50 | 41 | - | - | - | 50 | 20 | 41 | 2 | 2 | A
+ME3307 | Economics for Engineers | - | - | 50 | 42 | - | - | - | 50 | 20 | 42 | 2 | 2 | A
+ME3311 | Workshop Practice-III | O
+- | - | - | - | 25 | 10 | 17 | 25 | 10 | 17 | 1 | 1 | B
+R
+Current Semester Performance |  |  |  |  |  | Cumulative Performance |  |  |  |  | 
+Total
+Marks
+Obtained | Total Max
+Marks | P
+Percentage | Credits | EGP | SGPA | Total
+Marks
+Obtained | Total Max
+Marks | Percentage | Credits | EGP | CGPA
+577 | 800 | 74.30 | 22 | 180 | 8.18 | 1657 | 2400 | 70.80 | 66 | 525 | 7.95
+
+=== END OF TEXT ===
